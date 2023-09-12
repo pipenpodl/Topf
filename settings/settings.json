@@ -1,0 +1,11 @@
+{
+    "light_start":"07:00",
+    "light_end":"23:00",
+    "auto_check":"True",
+    "pump_work":10,
+    "pump_count_day":4,
+    "pump_count_night":1,
+    "count":1,
+    "led_regim":2,
+    "days":121
+}

@@ -1,0 +1,10 @@
+[Desktop Entry]
+version=1.0
+Name=Topf
+Exec=/usr/bin/python3 /home/pi/topf/main.py 
+Icon=/home/pi/topf/plant.png
+X-GNOME-Autostart-enabled=true
+Terminal=false
+Type=Application
+StartupNotify=true
+X-KeepTerminal=true
